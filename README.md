@@ -1,0 +1,1 @@
+This project creates a simple DAO that will govern a contract called Box.
